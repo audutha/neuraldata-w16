@@ -23,4 +23,5 @@ List of contributors:
 - Shiva Farashahi: Psych & Brain Sci, reward and decision-making
 - Jin Hyun Cheong : Psych & Brain Sci, social and affective neuroscience
 - Wilder Doucette: Psychiatry, neuromodulation and appetitive disorders
+- Anirudh Udutha: Psych & Brain Sci, motivation and decision-making
 
